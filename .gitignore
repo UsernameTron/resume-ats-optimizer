@@ -1,5 +1,5 @@
-.env
-__pycache__/
+job_search_env/
+venv/
 *.pyc
-ml_env/
-
+__pycache__/
+.env

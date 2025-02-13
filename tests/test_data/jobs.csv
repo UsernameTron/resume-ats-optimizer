@@ -1,0 +1,7 @@
+title,industry,responsibilities,qualifications,required_skills,experience_years,location,job_type,salary_range
+ML Engineer,Technology,"Develop ML models; Train deep learning models","Python expertise; Deep Learning experience","Machine Learning, Deep Learning, Python, TensorFlow",3,Remote,Full-time,"90000-130000"
+Data Scientist,Technology,"Analyze data; Build ML models; Deploy models to production","Machine Learning, Statistics, Python, TensorFlow, and PyTorch","Python, SQL, Machine Learning, TensorFlow, PyTorch",3,New York,Full-time,"90000-130000"
+AI Researcher,Technology,"Research AI algorithms; Implement deep learning solutions","PhD in ML/AI; Research experience","Deep Learning, Python, PyTorch, TensorFlow",5,San Francisco,Full-time,"120000-180000"
+Frontend Developer,Technology,"Optimize performance; Write unit tests; Build responsive UIs","React.js and Vue.js, TypeScript, Modern CSS","React.js, Vue.js, TypeScript, CSS",2,Austin,Full-time,"85000-125000"
+DevOps Engineer,Technology,"Deploy applications; Manage infrastructure; Monitor systems","AWS and GCP, Linux, Docker, Kubernetes","AWS, GCP, Linux, Docker, Kubernetes",4,Remote,Full-time,"120000-170000"
+Cloud Architect,Technology,"Implement security; Design cloud architecture; Optimize costs","Terraform, AWS Solutions Architect, CloudFormation","AWS, Terraform, CloudFormation",5,Boston,Full-time,"130000-180000"

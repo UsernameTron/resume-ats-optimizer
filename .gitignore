@@ -16,34 +16,93 @@ parts/
 sdist/
 var/
 wheels/
+share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+MANIFEST
+pip-log.txt
+pip-delete-this-directory.txt
 
 # Virtual Environment
 venv/
 ENV/
 env/
+.env/
+.venv/
+job_search_env/
+*_env/
 
 # IDE
 .idea/
 .vscode/
 *.swp
 *.swo
+*.sublime-workspace
+*.sublime-project
 
 # Testing
 .coverage
 .pytest_cache/
 htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
 
 # Logs
 *.log
+local_logs/
+logs/
+log/
 
 # Local development
 .env
 .env.local
 .env.*.local
+instance/
+.webassets-cache
 
 # System
 .DS_Store
 Thumbs.db
+*.bak
+*.tmp
+*.temp
+
+# ML specific
+*.h5
+*.pkl
+*.model
+model_checkpoints/
+saved_models/
+*.onnx
+*.pt
+*.pth
+*.tfevents.*
+*.pb
+
+# Data
+*.csv
+*.json
+*.sqlite
+*.db
+data/raw/
+data/processed/
+data/interim/
+data/external/
+!data/sample_jobs.csv
+!data/test_data/*.csv
+
+# Documentation
+docs/_build/
+docs/_static/
+docs/_templates/
+
+# Streamlit
+.streamlit/secrets.toml
+.streamlit/config.toml

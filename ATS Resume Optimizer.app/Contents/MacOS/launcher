@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# Get the directory where the app is installed
+APP_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+PROJECT_DIR="$(dirname "$(dirname "$(dirname "$APP_DIR")")")"
+
+# Activate virtual environment
+if [ -d "$PROJECT_DIR/venv" ]; then
+    source "$PROJECT_DIR/venv/bin/activate"
+fi
+
+# Launch the Streamlit app
+cd "$PROJECT_DIR"
+/usr/bin/env python3 -m streamlit run app/streamlit_app.py

@@ -1,0 +1,46 @@
+Customer Success Manager - SaaS Platform
+
+About Us:
+We are a leading SaaS platform provider specializing in enterprise solutions. Our customer success team is crucial in driving customer satisfaction and retention.
+
+Role Overview:
+We're seeking an experienced Customer Success Manager to own the complete customer lifecycle, from onboarding to renewal, focusing on customer health and expansion opportunities.
+
+Key Responsibilities:
+- Drive customer onboarding and implementation processes
+- Monitor and improve key metrics including NPS, CSAT, and customer health scores
+- Manage a portfolio of 15-20 enterprise accounts
+- Conduct quarterly business reviews (QBRs)
+- Track and improve retention rates and reduce churn
+- Drive product adoption and customer education initiatives
+- Manage renewal processes and expansion opportunities
+- Work with stakeholders to resolve escalations
+- Use data analytics to identify trends and opportunities
+
+Required Skills & Experience:
+- 5+ years in customer success or account management
+- Strong experience with Salesforce, Gainsight, and other CS tools
+- Proven track record of managing enterprise relationships
+- Experience with customer health monitoring and NPS programs
+- Demonstrated success in renewal management and upsell strategies
+- Strong presentation and stakeholder management skills
+- Experience with customer education and training programs
+
+Tools & Technologies:
+- Salesforce CRM
+- Gainsight or similar CS platform
+- Zendesk or similar support tools
+- Business intelligence tools (Tableau/PowerBI)
+- Microsoft Office Suite
+
+Metrics & KPIs:
+- Renewal rate target: 95%+
+- NPS score target: 50+
+- Customer health score improvements
+- Quarterly expansion revenue goals
+- Time to value optimization
+- Product adoption rates
+
+Location: Hybrid (3 days in office)
+Experience: 5-8 years
+Education: Bachelor's degree required

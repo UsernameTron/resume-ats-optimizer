@@ -1,15 +1,35 @@
-# Enhanced ATS Resume Optimizer
+# Enhanced ATS Resume Optimizer for Customer Success
 
-A high-performance resume optimization system designed for modern ATS (Applicant Tracking Systems).
+A specialized resume optimization system designed for Customer Success and Customer Experience (CX/CS) roles, leveraging modern ATS (Applicant Tracking Systems) analysis.
 
 ## Features
 
-- Hardware-accelerated text processing using Metal/MPS
+- Specialized for Customer Success and CX roles
+- Industry-specific skill pattern matching
+- Customer-centric keyword optimization
+- CS/CX metrics analysis
 - Real-time ATS score calculation
-- Keyword density optimization
-- Section-based analysis
-- Resource usage monitoring
-- Performance optimization
+- Hardware-accelerated processing
+- Performance monitoring
+
+## CS/CX Role Coverage
+
+- Customer Success Manager
+- Customer Experience Lead
+- Technical Customer Success Manager
+- Implementation Specialist
+- Customer Support Lead
+- Customer Success Operations
+
+## Key Skill Categories
+
+- Customer Success Fundamentals
+- CRM Systems & Tools
+- Customer Journey Mapping
+- Client Relationship Management
+- CS Metrics & KPIs
+- Technical Implementation
+- Customer Support Operations
 
 ## System Requirements
 

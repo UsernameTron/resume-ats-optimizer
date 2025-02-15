@@ -1,0 +1,37 @@
+Senior Director of Customer Experience & AI Strategy
+
+About the Role:
+We are seeking an experienced Senior Director of Customer Experience & AI Strategy to lead our customer experience transformation initiatives. The ideal candidate will combine deep CX expertise with advanced AI/ML knowledge to drive innovative solutions that enhance customer satisfaction and operational efficiency.
+
+Key Responsibilities:
+- Lead the development and implementation of CX strategy incorporating AI/ML solutions
+- Drive improvements in key metrics including NPS, CSAT, and First-Call Resolution
+- Oversee the design and implementation of Voice of Customer (VoC) programs
+- Manage and develop a team of CX professionals and data scientists
+- Collaborate with cross-functional teams to implement AI-powered CX solutions
+- Create and monitor KPIs to measure success of CX initiatives
+- Lead digital transformation initiatives focused on customer experience
+- Develop and implement customer retention strategies
+
+Required Qualifications:
+- 10+ years of experience in Customer Experience management
+- 5+ years of experience with AI/ML applications in CX
+- Proven track record of improving key CX metrics (NPS, CSAT, FCR)
+- Experience with CX platforms (Zendesk, Salesforce, etc.)
+- Strong background in data analytics and visualization
+- Experience with AI/ML tools and technologies
+- Excellent leadership and team management skills
+- Strong project management and organizational abilities
+
+Technical Skills:
+- Advanced proficiency in data analysis tools (SQL, Python, Power BI)
+- Experience with CRM platforms and VoC systems
+- Knowledge of AI/ML frameworks and applications
+- Familiarity with process automation tools
+
+Education:
+- Bachelor's degree required
+- Master's degree in relevant field preferred
+- Industry certifications in CX, AI, or related fields
+
+The ideal candidate will have a proven track record of leveraging AI and ML to transform customer experience operations, with demonstrable success in improving key performance metrics and driving innovation in CX practices.

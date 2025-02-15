@@ -11,6 +11,7 @@ psutil>=5.9.8
 # NLP and ML dependencies
 transformers>=4.36.0
 bertopic>=0.16.0
+spacy>=3.7.2
 
 # Utilities
 python-multipart>=0.0.6

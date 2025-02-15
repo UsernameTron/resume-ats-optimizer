@@ -1,0 +1,194 @@
+C. Pete Connor
+Director of Customer Experience & AI Strategist
+Dallas-Fort Worth Metroplex
+Phone: 682-500-5159
+Email: cpeteconnor@gmail.com
+LinkedIn: linkedin.com/in/cpeteconnor
+
+SUMMARY
+Accomplished Customer Experience (CX) leader with expertise in leveraging Artificial Intelligence (AI), Machine Learning (ML), and Data Analytics to optimize customer experiences and operational performance. Proven track record in driving significant improvements in key performance metrics, including:
+- 93% First-Call Resolution Rate
+- 70% Increase in Referral-to-Appointment Conversions
+- 33% Improvement in Service Delivery Speed
+- 25% Reduction in Operational Costs
+- 20% Boost in Net Promoter Score (NPS)
+- 20% Increase in Customer Satisfaction (CSAT)
+
+Expert in designing and implementing Voice of the Customer (VoC) systems, advanced SaaS & CRM platforms, and data-driven decision-making frameworks. Recognized for strategic leadership, cross-functional collaboration, and a commitment to continuous improvement.
+
+CORE COMPETENCIES
+
+AI & Machine Learning Applications
+- Predictive Analytics
+- Natural Language Processing (NLP)
+- AI-Powered Tools Development
+
+Customer Feedback Systems (VoC)
+- Real-Time Sentiment Analysis
+- VoC Program Design
+- Customer Journey Mapping
+
+Advanced SaaS & CRM Platforms
+- Zendesk
+- Totango
+- RingCentral
+- Salesforce
+
+Data Analytics & Visualization
+- Microsoft 365 & Excel
+- Google Sheets
+- Power BI
+- SQL & Python
+
+Cross-Functional Collaboration
+- Sales, Marketing, & Product Alignment
+- Team Leadership & Mentorship
+- Stakeholder Engagement
+
+KPI Management & Reporting
+- Performance Monitoring Tools
+- Dashboard Creation
+- Strategic Planning & Execution
+
+Process Optimization
+- Standard Operating Procedures (SOPs)
+- Workflow Automation
+- Operational Efficiency
+
+Strategic Leadership
+- Customer Experience Roadmaps
+- Retention Strategies
+- Digital Transformation Initiatives
+
+PROFESSIONAL EXPERIENCE
+
+Self-Employed – Director of Customer Experience Innovation & AI Solutions
+Feb 2024 – Present
+- Designed and launched MindMeld GPT, achieving 95% decision-making accuracy and reducing processing time by 25%
+- Increased NPS scores by 15 points and reduced task completion time by 50%
+- Delivered 30% reduction in claim denials, recovering $2M annual revenue through predictive modeling
+- Built AI-driven chatbot improving satisfaction by 15 points and decreasing onboarding time by 30%
+- Streamlined workflows saving $1M annually through reduced manual interventions
+
+CX Business Strategy Consultant
+Upwork | February 2024 – October 2024
+- Developed AI/ML Customer Feedback Systems achieving 20% increase in customer sentiment
+- Created ROI Visualization Models improving decision-making speed and accuracy
+- Directed CX Roadmaps implementation leading to 33% improvement in service delivery
+- Achieved 18% reduction in operational costs through improved insights
+
+Director of CX Operations
+Stride Care | September 2019 – February 2024
+- Led 70-member CX team, increasing referral-to-appointment conversions by 70%
+- Improved first-call resolution from 74% to 93%
+- Reduced Cost per Contact by 18% while maintaining service quality
+- Reduced Gross MRR churn by 10% through cross-departmental collaboration
+- Established VoC Program improving patient trust by 15%
+- Improved response times by 27% and agent productivity by 15%
+- Reduced agent onboarding time by 30% through comprehensive training
+
+Director of CX Operations
+OpenDoor | August 2016 – August 2019
+- Directed 50-member CX team ensuring consistent support quality
+- Increased customer satisfaction by 20% and retention by 15%
+- Improved First-Call Resolution by 19% and drove 23% account growth
+- Reduced average handling time by 23% and improved service consistency by 15%
+- Led metrics-focused VoC initiative focusing on NPS and CSAT trends
+
+Manager of BPO Customer Success and Support
+Sandler Management Services | May 2011 – August 2016
+- Scaled team from 50 to 200 agents maintaining 90% CSAT during 300% demand increase
+- Achieved 19% improvement in First-Call Resolution and 20% increase in satisfaction
+- Reduced operational costs by 15% through automation
+- Reduced escalations by 12% using SQL and Power BI data pipelines
+
+EDUCATION
+
+Master of Science in Artificial Intelligence
+Providence College School of Business
+Relevant Coursework: Customer Experience Management, Data Analytics, Business Strategy
+
+Bachelor of Business Management
+Hartford University
+
+CERTIFICATIONS
+
+Artificial Intelligence & Data Science
+- Predictive Analytics Professional Certificate
+- Machine Learning Specialization
+- NLP Practitioner Certification
+- Data Science Professional Certificate
+
+Leadership & Management
+- Executive Leadership Certificate
+- Strategic Management Professional
+- Change Management Certification
+- Project Management Professional (PMP)
+- Time Management Mastery
+- Effective Communication Skills
+- Emotional Intelligence Certification
+- Certified Customer Experience Professional (CCXP)
+- Customer Success Management Certification
+
+Technical Skills
+- Salesforce Certified Administrator
+- Zendesk Support Administrator Certification
+
+Process Improvement & Quality Management
+- Six Sigma Green Belt
+- Lean Management Certification
+
+Communication & Public Speaking
+- Advanced Public Speaking Certification
+
+KEY PROJECTS AND ACHIEVEMENTS
+
+1. Feedback System Implementation
+- Designed VoC System using Zendesk and Totango
+- 93% improvement in feedback processing
+- 15% increase in CSAT
+- 15% reduction in escalations
+
+2. Customer Experience Roadmap Development
+- Improved NPS by 20% within one year
+- Boosted digital engagement by 30%
+- Reduced response times by 27%
+
+3. KPI Tracking and Performance Management
+- 25% improvement in team performance metrics
+- 40 staff hours saved monthly through automated reporting
+
+4. SOP Documentation and Process Optimization
+- Significant error rate reduction
+- 10% productivity increase
+- 15% improvement through SOP implementation
+
+5. Cross-Functional Collaboration for CX Enhancement
+- Enhanced overall customer experience
+- 10% improvement through cross-functional initiatives
+
+TECHNICAL PROFICIENCIES
+
+AI & Machine Learning
+- Python, TensorFlow, scikit-learn
+
+Data Visualization
+- Power BI, Tableau, Excel, Google Sheets
+
+CRM & CX Platforms
+- Zendesk, Totango, RingCentral, Salesforce
+
+Database Management
+- SQL
+
+Communication Tools
+- Slack, Microsoft Teams, Zoom
+
+Project Management
+- Asana, Trello, Jira
+
+ADDITIONAL HIGHLIGHTS
+- Strategic Leadership: Positioned as a strategic partner aligning CX initiatives with business goals
+- Technological Integration: Expertise in integrating multiple systems for seamless operations
+- Continuous Improvement Advocate: Committed to fostering a culture of continuous learning
+- Industry Thought Leader: Regular contributor to industry conferences and publications on CX and AI trends
